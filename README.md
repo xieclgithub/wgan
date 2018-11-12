@@ -34,7 +34,7 @@ Two main empirical claims:
 python main.py --dataset lsun --dataroot [lsun-train-folder] --cuda
 ```
 
-**With MLP:**
+**With MLP Multiple layer pecptoron:**
 
 ```bash
 python main.py --mlp_G --ngf 512
