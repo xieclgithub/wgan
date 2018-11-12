@@ -1,7 +1,7 @@
 Wasserstein GAN
 ===============
 
-Code accompanying the paper ["Wasserstein GAN"](https://arxiv.org/abs/1701.07875)
+Code accompanying the paper ["Wasserstein GAN"](https://arxiv.org/abs/1701.07875) from [martinarjovsky](https://github.com/martinarjovsky/WassersteinGAN)
 
 ## A few notes
 
